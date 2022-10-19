@@ -30,7 +30,7 @@ if(boolPrinting === true)
     {
         if (boolRecognised ===true)
         {
-            stringOutput = stringMessage2 + stringeMessage3 + stringMessage4;
+            stringOutput = stringMessage2 + stringMessage3 + stringMessage4;
         }
         else
         {
@@ -55,7 +55,7 @@ else
     {
         if (boolRecognised ===true)
         {
-            stringOutput = stringeMessage3 + stringMessage4;
+            stringOutput = stringMessage3 + stringMessage4;
         }
         else
         {
